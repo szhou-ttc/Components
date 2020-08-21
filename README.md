@@ -1,7 +1,7 @@
 
 This project is creating reusable GUI component, multiple column List. It is used to list summary data, high-light selected data item, return selected item id and store it in data field.
 
-The data which is used to populated the list include header and items. The data structure is as follows:
+The data which is used to populate the list includes header and items. The data structure is as follows:
 {
 	"header": ["col1","col2","col3"...]
 	"items":[{key:key1,value:value1},
